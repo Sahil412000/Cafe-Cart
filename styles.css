@@ -70,6 +70,10 @@ li {
   .container {
     padding: 0 5rem;
   }
+
+  .nav{
+    line-height: 1.1rem;
+  }
 }
 
 /* Navigation */
